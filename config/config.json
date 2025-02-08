@@ -1,9 +1,9 @@
 {
   "production": {
-    "username": "upwdtqvwqjuh3xco",
-    "password": "PkhqgQUHOgYBD4Oh1RFV"    ,
-    "database": "bsxx8fot0tkvzqyq9xos",
-    "host": "bsxx8fot0tkvzqyq9xos-mysql.services.clever-cloud.com",
+    "username": "uz4jefay25tyjaqs",
+    "password": "DzU2VzJsVSle8UmgOJOf",
+    "database": "blev61cqdlcu0hzroya2",
+    "host": "blev61cqdlcu0hzroya2-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   }
 }
